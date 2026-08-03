@@ -2,6 +2,10 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00C9FF,100:92FE9D&text=Hi%20👋,%20I'm%20Aprna%20Singh&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=🚀%20Full%20Stack%20Developer%20|%20Python%20|%20Java%20|%20React%20|%20AI%20Enthusiast&descAlignY=60"/>
 
+
+
+
+
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&color=00F7FF&lines=Welcome+to+My+GitHub!;Aspiring+Software+Engineer;Full+Stack+Developer;Python+%7C+Java+%7C+React;Learning+AI+%26+Cloud;Always+Building+Cool+Projects!"/>
 
 </div>
@@ -53,6 +57,36 @@
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,javascript,react,nodejs,bootstrap,php,mysql,git,github,vscode&perline=8"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=aprnas662-byte&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aprnas662-byte&theme=react-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=aprnas662-byte&theme=radical&no-frame=true&margin-w=15"/>
 
 </p>
 
